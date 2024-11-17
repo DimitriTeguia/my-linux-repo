@@ -1,0 +1,13 @@
+[Unit]
+Description=Rclone Mount for Google Drive
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+ExecStart=/usr/bin/rclone mount gdrive: /home/dims/GDrive --vfs-cache-mode writes
+# Restart=always
+User=dims
+Group=dims
+
+[Install]
+WantedBy=default.target
