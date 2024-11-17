@@ -1,0 +1,3 @@
+*/5 * * * *  /usr/bin/rclone -v copy gdrive:.keepass /home/dims/Documents/.keepass --update && /usr/bin/rclone -v copy /home/dims/Documents/.keepass gdrive:.keepass --update
+
+*/5 * * * *  /usr/bin/rclone -v copy "gdrive:My PC Documents/Uni/Master" "/home/dims/Documents/Uni/Master" --update && /usr/bin/rclone -v copy "/home/dims/Documents/Uni/Master" "gdrive:My PC Documents/Uni/Master" --update
