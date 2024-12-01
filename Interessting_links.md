@@ -20,3 +20,4 @@ Got it! Here's the list in the format you requested:
 18. **shellphish/how2heap: A repository for learning various heap exploitation techniques.** - [https://github.com/shellphish/how2heap](https://github.com/shellphish/how2heap)  
 19. **Crypto-Cat/CTF: CTF chall write-ups, files, scripts etc (trying to be more organised LOL)** - [https://github.com/Crypto-Cat/CTF#readme](https://github.com/Crypto-Cat/CTF#readme)  
 20. **How To Install the Apache Web Server on Ubuntu 20.04 | DigitalOcean** - [https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-20-04](https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-20-04)  
+21. **Oh my ZSH** - [https://gist.github.com/azmarifdev/9c16c5a33e93aee05b35147fe7da1015]
